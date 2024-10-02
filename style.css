@@ -2,3 +2,43 @@
     background: #1f2937;
     height: 20%;
 }
+
+.hero_main_text {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    font-family: 'Roboto';
+}
+
+.hero_sec_text, .header_link_text {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-family: 'Roboto';
+}
+
+.header_logo_text {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-family: 'Roboto';
+}
+
+.button, .cta {
+    color: #3882F6;
+}
+
+.info_header_text {
+    font-size: 48px;
+    color: #1F2937;
+    font-weight: 900;
+    font-family: 'Roboto';
+}
+
+.quote_section {
+    background-color: #E5E7EB;
+}
+
+.quote_text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
